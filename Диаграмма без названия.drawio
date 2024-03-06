@@ -1,62 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T04:35:27.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MiJUenRlQtjA1y513XWs" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T04:46:13.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="thmv91G0S6e_RbuCmlcR" version="24.0.2" type="github">
   <diagram name="Страница — 1" id="rhEFebChWCQe8u7yre7A">
-    <mxGraphModel dx="2607" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="2306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MXlN5gaXndedCjYqVSMD-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="410" width="850" height="140" as="geometry" />
+          <mxGeometry x="35" y="-90" width="850" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="590" width="850" height="140" as="geometry" />
+          <mxGeometry x="35" y="90" width="850" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-3" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="760" width="850" height="140" as="geometry" />
+          <mxGeometry x="35" y="260" width="850" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-4" value="Стратегическое управление" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="100" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="105" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-5" value="Управление финансами" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="275" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-6" value="Управление бизнес-процессами" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="465" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-7" value="Управление персоналом" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="650" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="655" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-8" value="Обслуживание физических лиц" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="100" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="105" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-9" value="Обслуживание юридических лиц" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="275" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-10" value="работа с финансовыми и межбанковские рынках" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="465" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-11" value="Работа с проблемной задолжностью" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="650" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="655" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-12" value="Административно-&lt;div&gt;хозяйственное обеспечение&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="790" width="120" height="80" as="geometry" />
+          <mxGeometry x="105" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-13" value="ИТ- обеспечение и связь" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="790" width="120" height="80" as="geometry" />
+          <mxGeometry x="275" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-14" value="Обеспечение безопасности" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="790" width="120" height="80" as="geometry" />
+          <mxGeometry x="465" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-15" value="Юридические обеспечение" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="650" y="790" width="120" height="80" as="geometry" />
+          <mxGeometry x="655" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-16" value="Процессы управления" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="339" y="410" width="150" height="30" as="geometry" />
+          <mxGeometry x="344" y="-90" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-17" value="Основные процессы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="590" width="140" height="30" as="geometry" />
+          <mxGeometry x="350" y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-18" value="Обеспечивающие процессы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="760" width="180" height="30" as="geometry" />
+          <mxGeometry x="330" y="260" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MXlN5gaXndedCjYqVSMD-19" target="MXlN5gaXndedCjYqVSMD-27">
           <mxGeometry relative="1" as="geometry" />
@@ -164,6 +164,11 @@
         <mxCell id="MXlN5gaXndedCjYqVSMD-36" value="Бизнес-моделирование" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MXlN5gaXndedCjYqVSMD-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXlN5gaXndedCjYqVSMD-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-37" value="Сектор бизнес-моделирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
@@ -186,12 +191,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MXlN5gaXndedCjYqVSMD-42" value="Финансовый анализ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1630" width="120" height="80" as="geometry" />
+        <mxCell id="MXlN5gaXndedCjYqVSMD-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MXlN5gaXndedCjYqVSMD-42" target="MXlN5gaXndedCjYqVSMD-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MXlN5gaXndedCjYqVSMD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXlN5gaXndedCjYqVSMD-44">
+        <mxCell id="MXlN5gaXndedCjYqVSMD-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MXlN5gaXndedCjYqVSMD-42" target="MXlN5gaXndedCjYqVSMD-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXlN5gaXndedCjYqVSMD-42" value="Финансовый анализ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1630" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MXlN5gaXndedCjYqVSMD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MXlN5gaXndedCjYqVSMD-44" target="MXlN5gaXndedCjYqVSMD-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1140" y="1630.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="1580" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MXlN5gaXndedCjYqVSMD-44" value="Консолидированная информация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
